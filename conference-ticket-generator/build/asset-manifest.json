@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hngx-stage2-ConferenceTicketGenerator/static/css/main.4adc9832.css",
+    "main.js": "/hngx-stage2-ConferenceTicketGenerator/static/js/main.428a4b71.js",
+    "static/js/156.cbd4be59.chunk.js": "/hngx-stage2-ConferenceTicketGenerator/static/js/156.cbd4be59.chunk.js",
+    "index.html": "/hngx-stage2-ConferenceTicketGenerator/index.html",
+    "main.4adc9832.css.map": "/hngx-stage2-ConferenceTicketGenerator/static/css/main.4adc9832.css.map",
+    "main.428a4b71.js.map": "/hngx-stage2-ConferenceTicketGenerator/static/js/main.428a4b71.js.map",
+    "156.cbd4be59.chunk.js.map": "/hngx-stage2-ConferenceTicketGenerator/static/js/156.cbd4be59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4adc9832.css",
+    "static/js/main.428a4b71.js"
+  ]
+}
